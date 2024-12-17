@@ -1,6 +1,6 @@
 # Python Port Scanner
 
-A simple, fast Python script for scanning open ports on a target system. This project is designed to help you learn how to interact with network ports using Python's `socket` library. It can be used for various network troubleshooting tasks or security assessments.
+Python script for scanning open ports on a target system. This project is designed to help you learn how to interact with network ports using Python's `socket` library. It can be used for various network troubleshooting tasks or security assessments.
 
 ## Table of Contents
 - [Description](#description)
